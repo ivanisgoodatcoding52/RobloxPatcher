@@ -1,6 +1,3 @@
-"""
-Utility functions for the application.
-"""
 import logging
 import os
 from pathlib import Path
