@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Roblox Revival Creator - GUI Application
-
-A comprehensive tool for creating Roblox revivals with an easy-to-use interface.
-"""
 import logging
 import os
 import sys
