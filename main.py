@@ -23,14 +23,14 @@ def main() -> None:
     # Setup logging
     setup_logging()
     logger = logging.getLogger(__name__)
-    logger.info("Starting Roblox Revival Creator")
+    logger.info("Starting patcher")
 
     # Create and configure the application
     app_config = AppConfig()
     
     # Initialize root window
     root = tk.Tk()
-    root.title("Roblox Revival Creator")
+    root.title("Roblox patcher")
     root.geometry("850x650")  # Larger window to accommodate new features
     
     # Create main application window
